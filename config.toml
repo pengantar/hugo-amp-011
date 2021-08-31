@@ -1,4 +1,4 @@
-baseurl = "https://gohugo-amp.gohugohq.com/"
+baseurl = "https://amp-stackbit-daf11.pages.dev/"
 languageCode = "en-us"
 title = "gohugo-amp starter theme"
 theme = "gohugo-amp"
@@ -27,9 +27,9 @@ ampElements = [
   "amp-user-notification"
 ]
 themeColor = "#ff1d55"
-adsensePublisher = "ca-pub-123456789"
-googleAnalytics = "UA-12345678-123"
-appleItunesApp = "app-id=123456789, app-argument=app-name://link/to/app-content"
+#adsensePublisher = "ca-pub-123456789"
+#googleAnalytics = "UA-12345678-123"
+#appleItunesApp = "app-id=123456789, app-argument=app-name://link/to/app-content"
 ampManifest = "/amp-manifest.json"
 alternatePageName = "HUGO AMP"
 organizationLogo = "https://gohugo-amp.gohugohq.com/logo.png"
@@ -41,7 +41,7 @@ socialProfiles = [
   "http://www.linkedin.com/in/yourprofile",
   "http://plus.google.com/your_profile"
 ]
-publisherName = "gohugohq.com"
+publisherName = "admin"
 publisherLogo = "https://gohugo-amp.gohugohq.com/logo-publisher.png"
 publisherLogoWidth = 600
 publisherLogoHeight = 60
